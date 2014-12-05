@@ -3,7 +3,7 @@ Contributors: ben.moody
 Tags: content syndicator,content syndication,content aggregator,content aggregation,content publisher,syndication network,aggregator network,seo,content publishing
 Requires at least: 3.0
 Tested up to: 4.0.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -11,7 +11,7 @@ Content Syndication Toolkit allows you to syndicate content to multiple client s
 
 == Description ==
 
-= Are you a content creator, freelance author, or SEO expert? =
+= Are you a content creator, freelance author, or SEO content marketer? =
 
 Do yo need to syndicate content to your client's Wordpress sites?
 
@@ -24,6 +24,12 @@ Just create an account for each client, publish your post and all the content, c
 = This is NOT an RSS aggregator plugin! =
 
 All requests for content are authenticated with a username and password exactly like a Wordpress login. This means that only clients that you have registered can access the content. 
+
+= Perfect for Content Marketing =
+
+Plugin automatically adds a canonical link to the end of every imported post at the clients end.
+
+e.g. This article was first published on http://benjaminmoody.com.
 
 = Need to stop content going to a client? =
 
@@ -90,5 +96,9 @@ Sometimes web servers crash or are slow to respond.
 If your site cannot reach a client during a push it will send you and email with the account name and error details. It will also send your client and email with instructions on how to manually start a content pull from their wordpress admin area.
 
 == Changelog ==
+
 = 1.0 =
 Initial plugin launch.
+
+= 1.0.1 =
+Added canonical link generation for client posts.
