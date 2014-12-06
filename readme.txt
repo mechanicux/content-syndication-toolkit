@@ -115,6 +115,9 @@ Added canonical link generation for client posts.
 = 1.0.2 =
 Small bugfix for canonical links
 
+= 1.0.3 =
+Bugfix for canonical pretty permalinks. Improved push speed on post publish.
+
 == Upgrade Notice ==
 
 = 1.0.2 =
