@@ -27,7 +27,7 @@ Just create an account for each client, publish your post and all the content, c
 
 = Perfect for Content Marketing, Auto Canonical link generation! =
 
-Plugin automatically adds a canonical link to the <head> every imported post at the clients end.
+Plugin automatically adds a canonical link to the 'head' every imported post at the clients end.
 
 It also adds a link back to the original post at the end of the content:
 
