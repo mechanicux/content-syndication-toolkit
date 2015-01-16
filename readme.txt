@@ -25,6 +25,10 @@ Just create an account for each client, publish your post and all the content, c
 
 [youtube http://www.youtube.com/watch?v=IDhMirwfnLc]
 
+= Need More? Go Pro and create a your own Subscription Based Content Syndication Network! =
+
+[Learn More about Content Syndication Toolkit Pro](http://benjaminmoody.com/downloads/content-syndication-toolkit-pro/ “Learn More About Content Syndication Toolkit Pro”)
+
 = Perfect for Content Marketing, Auto Canonical link generation! =
 
 Plugin automatically adds a canonical link to the 'head' every imported post at the clients end.
