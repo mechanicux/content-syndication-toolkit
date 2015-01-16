@@ -27,13 +27,9 @@ Just create an account for each client, publish your post and all the content, c
 
 = Need More? Go Pro and create a your own Subscription Based Content Syndication Network! =
 
-[Learn More about Content Syndication Toolkit Pro](http://benjaminmoody.com/downloads/content-syndication-toolkit-pro/ “Learn More About Content Syndication Toolkit Pro”)
+[Learn More about Content Syndication Toolkit Pro][pro learnmore]
 
-Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
-Titles are optional, naturally.
-
-[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
-            "Markdown is what the parser uses to process much of the readme file"
+[pro learnmore]: http://benjaminmoody.com/downloads/content-syndication-toolkit-pro/
 
 = Perfect for Content Marketing, Auto Canonical link generation! =
 
