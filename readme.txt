@@ -29,6 +29,12 @@ Just create an account for each client, publish your post and all the content, c
 
 [Learn More about Content Syndication Toolkit Pro](http://benjaminmoody.com/downloads/content-syndication-toolkit-pro/ “Learn More About Content Syndication Toolkit Pro”)
 
+Here's a link to [WordPress](http://wordpress.org/ "Your favorite software") and one to [Markdown's Syntax Documentation][markdown syntax].
+Titles are optional, naturally.
+
+[markdown syntax]: http://daringfireball.net/projects/markdown/syntax
+            "Markdown is what the parser uses to process much of the readme file"
+
 = Perfect for Content Marketing, Auto Canonical link generation! =
 
 Plugin automatically adds a canonical link to the 'head' every imported post at the clients end.
