@@ -67,7 +67,7 @@ The client site then does the heavy lifting, importing the post data and downloa
 
 Sometimes web servers go down or take a while to respond. If there is any issue with pushing content to a client, the plugin will send an email to you with the details of the error and it will also send an email to the client admin with instructions on how to manually pull in the content using the client plugin admin options.
 
-= Need More? Go Pro and create a your own Subscription Based Content Syndication Network! =
+= Need More? Go Pro and create your own Subscription Based Content Syndication Network! =
 
 [Learn More about Content Syndication Toolkit Pro][pro learnmore]
 
@@ -85,7 +85,7 @@ Sometimes web servers go down or take a while to respond. If there is any issue 
 
 == Frequently Asked Questions ==
 
-= Need More Features? Go Pro and create a your own Subscription Based Content Syndication Network! =
+= Need More Features? Go Pro and create your own Subscription Based Content Syndication Network! =
 
 [Learn More about Content Syndication Toolkit Pro][pro learnmore]
 
